@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 26 15:53:07 PDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instance a816c00e-016b-95fe-1b75-00000f6011a0 
+on database directory /Users/abinashisingh/Downloads/5200-PROJECT/Parkdata with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/usr/local/Apache/db-derby-10.15.1.3-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.1+13-LTS
+user.dir=/Users/abinashisingh/Downloads/5200-PROJECT
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
